@@ -3,3 +3,5 @@ Elabore una aplicación que permita simular el uso de pandas para visualizar alg
 defina lo que desea medir para visualizarlas) con respecto a una encuesta, relacionada a preferencias de 
 supermercados en Piura.
 """
+
+#Holaxd
