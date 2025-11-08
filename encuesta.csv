@@ -1,0 +1,47 @@
+﻿Marca temporal;Género;Edad;Supermercado de Preferencia;Motivo de Preferencia;¿Recomendarías el Supermercado;Tiempo entre el Supermercado y tu hogar;Visitas a la semana;Nivel de satisfacción sobre el Supermercado;Preferencia de pago;Categorías de compra
+11/3/2025 12:12:34;Masculino;15 - 20;Plaza Vea;Calidad de Productos;Sí;10 - 15 minutos;1;4;Efectivo;Alimentos perecibles (frutas, verduras, carnes)
+11/3/2025 12:51:59;Masculino;21 - 26;Mass;Precio;Sí;Menos de 5 minutos;3 - 4;5;Tarjeta;Alimentos perecibles (frutas, verduras, carnes)
+11/3/2025 12:57:34;Femenino;21 - 26;Tottus;Precio;Sí;15 - 20 minutos;1;4;Tarjeta;Abarrotes / No perecibles
+11/3/2025 13:00:18;Masculino;21 - 26;Plaza Vea;Precio;Sí;Menos de 5 minutos;2;5;Tarjeta;Aseo y limpieza
+11/3/2025 13:03:38;Femenino;21 - 26;Makro;Calidad de Productos;Sí;10 - 15 minutos;5 - 6;5;Efectivo;Alimentos perecibles (frutas, verduras, carnes)
+11/3/2025 13:04:56;Masculino;15 - 20;Maxi Ahorro;Promociones / Ofertas;Sí;10 - 15 minutos;3 - 4;4;Billeteras electronicás (Yape, Plin, etc);Aseo y limpieza
+11/3/2025 13:07:14;Femenino;15 - 20;Tottus;Cercanía;Sí;15 - 20 minutos;1;4;Billeteras electronicás (Yape, Plin, etc);Abarrotes / No perecibles
+11/3/2025 13:14:51;Masculino;15 - 20;Plaza Vea;Cercanía;Sí;Menos de 5 minutos;2;5;Tarjeta;Alimentos perecibles (frutas, verduras, carnes)
+11/3/2025 13:38:19;Femenino;39 - 43;Metro;Atención / Servicio;Sí;Más de 30 minutos;3 - 4;5;Efectivo;Otros
+11/3/2025 13:50:02;Femenino;15 - 20;Mass;Cercanía;Tal vez;Menos de 5 minutos;3 - 4;3;Billeteras electronicás (Yape, Plin, etc);Abarrotes / No perecibles
+11/3/2025 13:53:39;Masculino;21 - 26;Tottus;Promociones / Ofertas;Tal vez;15 - 20 minutos;1;4;Tarjeta;Abarrotes / No perecibles
+11/3/2025 13:53:56;Masculino;Más de 44 años;Mass;Cercanía;Sí;5 - 10 minutos;1;4;Efectivo;Abarrotes / No perecibles
+11/3/2025 14:05:56;Femenino;15 - 20;Mass;Cercanía;Tal vez;5 - 10 minutos;1;4;Billeteras electronicás (Yape, Plin, etc);Alimentos perecibles (frutas, verduras, carnes)
+11/3/2025 14:28:52;Masculino;21 - 26;Mass;Cercanía;Sí;Menos de 5 minutos;3 - 4;5;Tarjeta;Abarrotes / No perecibles
+11/3/2025 14:36:48;Masculino;21 - 26;Uno;Cercanía;Sí;5 - 10 minutos;1;4;Tarjeta;Alimentos perecibles (frutas, verduras, carnes)
+11/3/2025 14:59:33;Masculino;21 - 26;Tottus;Calidad de Productos;Sí;10 - 15 minutos;3 - 4;5;Efectivo;Alimentos perecibles (frutas, verduras, carnes)
+11/3/2025 23:09:26;Femenino;21 - 26;Plaza Vea;Promociones / Ofertas;Tal vez;10 - 15 minutos;2;4;Tarjeta;Alimentos perecibles (frutas, verduras, carnes)
+11/4/2025 9:19:05;Femenino;21 - 26;Plaza Vea;Promociones / Ofertas;Sí;15 - 20 minutos;2;5;Tarjeta;Alimentos perecibles (frutas, verduras, carnes)
+11/4/2025 21:10:54;Masculino;21 - 26;Mass;Cercanía;Tal vez;Menos de 5 minutos;1;2;Efectivo;Aseo y limpieza
+11/4/2025 21:12:09;Masculino;21 - 26;Metro;Promociones / Ofertas;Sí;10 - 15 minutos;2;3;Billeteras electronicás (Yape, Plin, etc);Congelados
+11/4/2025 21:17:11;Masculino;21 - 26;Tottus;Promociones / Ofertas;Sí;15 - 20 minutos;3 - 4;3;Efectivo;Alimentos perecibles (frutas, verduras, carnes)
+11/4/2025 21:18:47;Masculino;21 - 26;Uno;Precio;Sí;5 - 10 minutos;2;5;Billeteras electronicás (Yape, Plin, etc);Abarrotes / No perecibles
+11/4/2025 21:20:01;Femenino;21 - 26;Tottus;Cercanía;Sí;15 - 20 minutos;1;4;Billeteras electronicás (Yape, Plin, etc);Alimentos perecibles (frutas, verduras, carnes)
+11/4/2025 21:22:50;Femenino;21 - 26;Maxi Ahorro;Cercanía;Sí;Más de 30 minutos;3 - 4;4;Billeteras electronicás (Yape, Plin, etc);Alimentos perecibles (frutas, verduras, carnes)
+11/4/2025 21:23:12;Femenino;21 - 26;Mass;Precio;Sí;Menos de 5 minutos;2;4;Efectivo;Alimentos perecibles (frutas, verduras, carnes)
+11/4/2025 21:24:28;Masculino;15 - 20;Mass;Cercanía;Sí;Menos de 5 minutos;3 - 4;5;Tarjeta;Bebidas (incluye alcohólicas)
+11/4/2025 21:25:37;Masculino;33 - 38;Tottus;Cercanía;Sí;Más de 30 minutos;3 - 4;4;Tarjeta;Otros
+11/4/2025 21:26:01;Masculino;27 - 32;Tottus;Cercanía;Sí;5 - 10 minutos;2;5;Billeteras electronicás (Yape, Plin, etc);Aseo y limpieza
+11/4/2025 21:36:44;Femenino;15 - 20;Tottus;Promociones / Ofertas;Sí;10 - 15 minutos;1;5;Efectivo;Abarrotes / No perecibles
+11/4/2025 21:59:45;Femenino;33 - 38;Plaza Vea;Promociones / Ofertas;Sí;15 - 20 minutos;1;5;Efectivo;Productos para bebés/niños
+11/4/2025 22:20:38;Femenino;Más de 44 años;Maxi Ahorro;Precio;Sí;10 - 15 minutos;2;5;Efectivo;Otros
+11/4/2025 23:00:35;Masculino;21 - 26;Tottus;Promociones / Ofertas;Sí;15 - 20 minutos;1;4;Tarjeta;Abarrotes / No perecibles
+11/5/2025 5:25:38;Femenino;15 - 20;Maxi Ahorro;Precio;Sí;10 - 15 minutos;2;3;Billeteras electronicás (Yape, Plin, etc);Abarrotes / No perecibles
+11/5/2025 8:59:46;Masculino;21 - 26;Maxi Ahorro;Cercanía;Tal vez;15 - 20 minutos;2;3;Efectivo;Abarrotes / No perecibles
+11/5/2025 11:10:10;Femenino;15 - 20;Mass;Cercanía;Sí;5 - 10 minutos;3 - 4;4;Billeteras electronicás (Yape, Plin, etc);Alimentos perecibles (frutas, verduras, carnes)
+11/5/2025 12:16:43;Masculino;15 - 20;Mass;Precio;Sí;5 - 10 minutos;2;5;Efectivo;Alimentos perecibles (frutas, verduras, carnes)
+11/5/2025 20:36:50;Femenino;21 - 26;Mass;Cercanía;Sí;5 - 10 minutos;3 - 4;5;Tarjeta;Abarrotes / No perecibles
+11/5/2025 20:37:08;Masculino;15 - 20;Maxi Ahorro;Precio;Sí;10 - 15 minutos;2;5;Billeteras electronicás (Yape, Plin, etc);Bebidas (incluye alcohólicas)
+11/5/2025 21:19:55;Femenino;15 - 20;Plaza Vea;Cercanía;Sí;5 - 10 minutos;3 - 4;4;Tarjeta;Abarrotes / No perecibles
+11/5/2025 21:27:13;Femenino;21 - 26;Plaza Vea;Cercanía;Sí;5 - 10 minutos;1;4;Tarjeta;Otros
+11/5/2025 21:32:21;Masculino;39 - 43;Makro;Cercanía;Sí;15 - 20 minutos;1;4;Tarjeta;Abarrotes / No perecibles
+11/5/2025 22:53:23;Femenino;21 - 26;Mass;Precio;Sí;5 - 10 minutos;3 - 4;4;Efectivo;Abarrotes / No perecibles
+11/5/2025 22:56:10;Femenino;15 - 20;Maxi Ahorro;Calidad de Productos;Tal vez;Más de 30 minutos;0;1;Efectivo;Otros
+11/5/2025 23:26:24;Femenino;21 - 26;Mass;Precio;Sí;5 - 10 minutos;2;3;Tarjeta;Abarrotes / No perecibles
+11/5/2025 23:54:12;Femenino;21 - 26;Mass;Precio;Sí;5 - 10 minutos;3 - 4;5;Tarjeta;Alimentos perecibles (frutas, verduras, carnes)
+11/6/2025 7:34:48;Masculino;21 - 26;Tottus;Cercanía;Sí;Menos de 5 minutos;1;5;Tarjeta;Otros
